@@ -1,4 +1,5 @@
 #  Firewall Rule Simulator
+<img width="100%" height="413" alt="img" src="https://github.com/user-attachments/assets/61be8c90-3cf5-4db7-b635-83380c9b086c" />
 
 A beginner-friendly Python project that simulates how a firewall checks incoming IP addresses against predefined firewall rules.
 
